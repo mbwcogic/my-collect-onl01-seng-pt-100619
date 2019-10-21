@@ -1,6 +1,6 @@
 def my_collect(empty_array) 
   counter = 0
-  while
+  while 
   counter +=1 
 end
 
