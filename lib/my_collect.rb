@@ -1,4 +1,4 @@
-def my_collect(empty_array) do |x|
+def my_collect(empty_array) 
   counter +=1 
 end
 
